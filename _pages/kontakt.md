@@ -1,0 +1,33 @@
+---
+ID: 9021
+post_title: Kontakt
+author: admin
+post_date: 2015-12-09 14:34:15
+post_excerpt: ""
+layout: page
+permalink: >
+  http://wordpress.p380765.webspaceconfig.de/kontakt/
+published: true
+slide_template:
+  - default
+wpex_post_layout:
+  - right-sidebar
+wpex_post_slider_shortcode:
+  - '[page-content-sc id="9744"]'
+sidebar:
+  - pages_sidebar
+---
+[et_pb_section admin_label="Headersection global – Layout Abrisskante 1" fullwidth="on" specialty="off" background_color="#2ea3f2" inner_shadow="off" parallax="off" transparent_background="on" allow_player_pause="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" gutter_width="3" collapsed="off"][et_pb_fullwidth_map admin_label="Global GoogleMaps Layout Abrisskante 1" global_module="10713" saved_tabs="all" address="Urspringer Str. 4, 97854 Steinfeld, Deutschland" zoom_level="12" address_lat="49.95097000000004" address_lng="9.669190000000071" mouse_wheel="off" module_class="global_googlemaps"] [et_pb_map_pin title="Zentrale" pin_address="Urspringer Str. 4, 97854 Steinfeld, Deutschland" pin_address_lat="49.95097" pin_address_lng="9.669190000000071"] [/et_pb_map_pin] [/et_pb_fullwidth_map][et_pb_fullwidth_code admin_label="USP-Menu global divi 3" disabled_on="off|off|off" disabled="off" global_module="11210" saved_tabs="all" locked="off"][ubermenu config_id="usp-h1"][/et_pb_fullwidth_code][/et_pb_section][et_pb_section admin_label="Contentsection global – Layout Abrisskante 1" fullwidth="off" specialty="on" transparent_background="off" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="off" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" gutter_width="3" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off" collapsed="off"][et_pb_column type="2_3" specialty_columns="2"][et_pb_row_inner admin_label="Zeile" custom_padding="||0px|" padding_mobile="off" use_custom_gutter="off" column_padding_mobile="on" make_equal="off" parallax_1="off" parallax_method_1="off"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left" module_id="anfrage" use_border_color="off" border_color="#ffffff" border_style="solid" custom_margin="||0px|" custom_padding="||0px|"]
+<h1>Kontakt</h1>
+[/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner admin_label="Zeile" custom_padding="||0px|15px" padding_mobile="off" use_custom_gutter="off" column_padding_mobile="on" make_equal="off" parallax_1="off" parallax_method_1="off" parallax_2="off" parallax_method_2="off"][et_pb_column_inner type="1_2" saved_specialty_column_type="2_3"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"] [anschrift_zentrale] [/et_pb_text][/et_pb_column_inner][et_pb_column_inner type="1_2" saved_specialty_column_type="2_3"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left" use_border_color="off" border_color="#ffffff" border_style="solid"] [oeffnungszeiten_zentrale] [/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner admin_label="Zeile"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3"][et_pb_text admin_label="Text" background_layout="light" text_orientation="left" module_id="anfrage" use_border_color="off" border_color="#ffffff" border_style="solid"]
+<h2>Wir freuen uns auf Ihre Anfrage.</h2>
+[caldera_form id="CF5811ffc03e034"]
+
+[/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner admin_label="Zeile" global_module="11277" padding_mobile="off" use_custom_gutter="off" gutter_width="3" column_padding_mobile="on" make_equal="off" parallax_1="off" parallax_method_1="off" disabled_on="off|off|off" disabled="off"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3"][et_pb_divider global_parent="11277" admin_label="Teiler 20" color="#cccccc" show_divider="on" height="20" divider_style="solid" divider_position="center" divider_weight="1px" hide_on_mobile="off" disabled="off"] [/et_pb_divider][et_pb_text global_parent="11277" admin_label="Wir freuen uns auf Ihren Besuch &amp; Anschrift" background_layout="light" text_orientation="left" use_border_color="off" border_style="solid" disabled="off" border_color="#ffffff"]
+<h2></h2>
+<h2>Wir freuen uns auf Ihren Besuch</h2>
+<a href="/kontakt/">So finden Sie zu uns. Zur Anfahrtskarte und Navigation bitte "Hier klicken".</a> [anschrift_zentrale] [/et_pb_text][et_pb_code global_parent="11277" admin_label="Kundenmeinungen" id="%2211780%22" disabled_on="on|on|on" disabled="on"][page-content-sc id="8564"][/et_pb_code][/et_pb_column_inner][/et_pb_row_inner][/et_pb_column][et_pb_column type="1_3"][et_pb_text admin_label="Angebot der Woche" global_module="14387" saved_tabs="all" background_layout="dark" text_orientation="left" background_color="#000000" use_border_color="off" border_color="#ffffff" border_style="solid" module_id="aktuellbuttonseitenleiste" module_class="aktuellbuttonseitenleiste"]
+
+<a href="/angebot3/"><strong>Angebot der Woche</strong></a>
+<h3><a href="/angebot3/"><strong>Hier klicken!</strong></a></h3>
+[/et_pb_text][et_pb_sidebar admin_label="Seitenleiste rechts" orientation="right" area="sidebar-1" background_layout="light" remove_border="off" header_font_size="18" body_font_size="14" saved_tabs="all" global_module="11253" locked="off"] [/et_pb_sidebar][et_pb_shop admin_label="Shop Angebote sidebar" type="sale" posts_number="4" columns_number="1" orderby="date" module_id="seitenleiste " module_class="seitenleiste" disabled_on="off|off|off" disabled="off" saved_tabs="all" global_module="13549"] [/et_pb_shop][et_pb_sidebar admin_label="Seitenleiste rechts News intern" orientation="right" area="et_pb_widget_area_1" background_layout="light" remove_border="off" header_font_size="18" body_font_size="14" saved_tabs="all" global_module="11255" locked="off"] [/et_pb_sidebar][et_pb_sidebar admin_label="Seitenleiste rechts Newsstream" orientation="right" area="et_pb_widget_area_2" background_layout="light" remove_border="off" header_font_size="18" body_font_size="14" saved_tabs="all" global_module="11256" locked="off"] [/et_pb_sidebar][/et_pb_column][/et_pb_section]

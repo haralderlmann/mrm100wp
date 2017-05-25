@@ -1,0 +1,43 @@
+---
+ID: 3379
+post_title: Qualität
+author: admin
+post_date: 2015-06-20 23:07:42
+post_excerpt: ""
+layout: page
+permalink: >
+  http://wordpress.p380765.webspaceconfig.de/qualitaet/
+published: true
+footer:
+  - ""
+header_title_bar:
+  - ""
+header_transparency:
+  - ""
+slide_template:
+  - default
+---
+[et_pb_section fb_built="1" transparent_background="on" padding_mobile="off" fullwidth="on" disabled_on="on|on|on" admin_label="Headersection global – Layout Abrisskante 1" disabled="on"][et_pb_fullwidth_slider show_arrows="off" show_pagination="off" top_padding="15%" bottom_padding="15%" top_padding_tablet="25%" top_padding_last_edited="on|phone" bottom_padding_tablet="25%" bottom_padding_last_edited="on|phone" admin_label="Slider individuell - DIVI 3" module_class="global_slider" saved_tabs="all"][et_pb_slide heading=" " background_image="http://wordpress-divi306wp461.p380765.webspaceconfig.de/wp-content/uploads/metzger-image-by-presssack-ff-de-1903-1.jpg" use_bg_overlay="off" use_text_overlay="off" admin_title="Verkäuferin Verband" header_font="||||" body_font="||||" custom_button="off" button_icon_placement="right" button_on_hover="on"][/et_pb_slide][/et_pb_fullwidth_slider][et_pb_fullwidth_code disabled_on="off|off|off" admin_label="USP-Menu global – Layout Abrisskante 1" global_module="11210" saved_tabs="all" locked="off"][ubermenu config_id=&quot;usp-h1&quot;][/et_pb_fullwidth_code][/et_pb_section][et_pb_section fb_built="1" fullwidth="on" admin_label="Section"][et_pb_fullwidth_slider top_padding="19%" bottom_padding="19%" top_padding_phone="25%" top_padding_last_edited="on|desktop" bottom_padding_phone="25%" bottom_padding_last_edited="on|desktop" disabled_on="off|off|off" admin_label="Slider global divi 3" module_class="global_slider" header_font="||||" body_font="||||" custom_css_main_element="hight: 400px;" global_module="10704" saved_tabs="all"][et_pb_slide background_image="http://wordpress-divi306wp461.p380765.webspaceconfig.de/wp-content/uploads/metzger-image-by-presssack-ff-de-1903-1.jpg" use_bg_overlay="off" use_text_overlay="off" admin_title="Verkäuferin Verband" header_font="||||" body_font="||||" custom_button="off" button_icon_placement="right" button_on_hover="on"][/et_pb_slide][et_pb_slide background_image="http://wordpress-divi306wp461.p380765.webspaceconfig.de/wp-content/uploads/metzger-image-by-presssack-ff-de-1991-1.jpg" use_bg_overlay="off" use_text_overlay="off" admin_title="Schinken Verband" header_font="||||" body_font="||||" custom_button="off" button_icon_placement="right" button_on_hover="on"][/et_pb_slide][/et_pb_fullwidth_slider][et_pb_fullwidth_code disabled_on="off|off|off" admin_label="USP-Menu global – Layout Abrisskante 1" global_module="11210" saved_tabs="all" locked="off"][ubermenu config_id=&quot;usp-h1&quot;][/et_pb_fullwidth_code][/et_pb_section][et_pb_section fb_built="1" padding_mobile="off" specialty="on" parallax_1="off" parallax_2="off" parallax_method_1="off" parallax_method_2="off" admin_label="Contentsection global – Layout Abrisskante 1" collapsed="off"][et_pb_column type="2_3" specialty_columns="2" parallax="off" parallax_method="off"][et_pb_row_inner custom_padding="||0px|" padding_mobile="off" column_padding_mobile="on" parallax_method_1="off" admin_label="Row" collapsed="off"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3" column_padding_mobile="on" parallax="off" parallax_method="off"][et_pb_text admin_label="Headline"]<h1>Qualität und Verantwortung</h1>
+<p>Eine gute Ernährung basiert immer auch auf der guten Qualität verwendeter Produkte. Deshalb haben wir außer den Richlinien und Vorschriften auch eine persönliche Verantwortung für Sie als unsere Kunden. So kann die Anforderung an unsere persönlichen Qualitätsrichtlinien nur 100% betragen. Alles andere ist für uns nicht akzeptabel.</p>
+[/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner custom_padding="10px||0px|" padding_mobile="off" use_custom_gutter="on" column_padding_mobile="on" parallax_method_1="off" parallax_method_2="off" admin_label="row_inner" collapsed="off"][et_pb_column_inner type="1_2" saved_specialty_column_type="2_3" column_padding_mobile="on" parallax="off" parallax_method="off"][et_pb_text admin_label="Text"]
+
+Das lässt sich unserer Meinung nach nur erreichen, wenn der Anfang der Ernährungskette stimmt. Wir kaufen deshalb nur im nahen und regionalen Umfeld ein. Wir sehen die Lieferanten als unsere Partner und sind natürlich persönlich bekannt.
+
+[/et_pb_text][/et_pb_column_inner][et_pb_column_inner type="1_2" saved_specialty_column_type="2_3" column_padding_mobile="on" parallax="off" parallax_method="off"][et_pb_image src="http://wordpress-divi306wp461.p380765.webspaceconfig.de/wp-content/uploads/2015/12/ich-kauf-bei-meinem-metzger1.jpg" show_in_lightbox="on" use_overlay="on" admin_label="Image"]
+[/et_pb_image][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner custom_padding="||0px|" padding_mobile="off" column_padding_mobile="on" parallax_method_1="off" admin_label="row_inner"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3" column_padding_mobile="on" parallax="off" parallax_method="off"][et_pb_text admin_label="Text"]
+
+Darauf sind wir stolz. Das ist auch der Grundstein für unsere Produkte, die wir mit unserem hohen Anspruch an die Qualität und Frische selbst herstellen können. Und dafür bürgen wir mit unserem guten Namen. Von der Wurstküche direkt in den Laden – frischer geht’s nicht.
+
+[/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner admin_label="row_inner"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3" parallax="off" parallax_method="on"][et_pb_text admin_label="Text - Das schmeckt"]<h2>Das schmeckt</h2>
+<p>Und das schmeckt man bei allen unseren Fleischgerichten und Wurstspezialitäten. Mit gutem Fleisch, besten Zutaten und nicht zuletzt mit meisterlichem Können stellen wir ausgezeichnete Fleisch- und Wurstspezialitäten her.</p>
+[/et_pb_text][et_pb_text admin_label="Text - Testen vor dem Kauf"]<h2>Testen vor dem Kauf</h2>
+<p>Selbstverständlch können Sie unsere Produkte vor dem Kauf testen. Sprechen Sie unsere freundlichen Fachverkäuferinnen darauf an. Soviel Zeit nehmen wir uns für unsere Kunden, denn wir möchten dass Sie 100% zufrieden sind und sich beim Einkauf in unserer Metzgerei wohlfühlen.</p>
+[/et_pb_text][et_pb_image src="http://wordpress-divi306wp461.p380765.webspaceconfig.de/wp-content/uploads/verkauferin-01-slider-1120-350px.jpg"][/et_pb_image][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner padding_mobile="off" column_padding_mobile="on" parallax_method_1="off" disabled_on="on|on|on" admin_label="Kundenmeinungen" global_module="11277"][et_pb_column_inner type="4_4" saved_specialty_column_type="2_3" column_padding_mobile="on" parallax="off" parallax_method="off"][et_pb_text admin_label="Wir freuen uns auf Ihren Besuch"]<h2 class="p1"><span class="s1">Wir freuen uns auf Ihren Besuch</span></h2>
+<p class="p2"><span class="s1"><a href="http://wordpress-wp461divi302gschwendner.p379314.webspaceconfig.de/kontakt/">So finden Sie zu uns. Hier klicken.</a></span><span class="s2"> [anschrift_zentrale]</span></p>
+[/et_pb_text][et_pb_code disabled_on="on|on|on" admin_label="Kundenmeinungen" disabled="on"][page-content-sc id=&quot;8564&quot;][/et_pb_code][/et_pb_column_inner][/et_pb_row_inner][/et_pb_column][et_pb_column type="1_3" parallax="off" parallax_method="off"][et_pb_sidebar orientation="right" area="sidebar-1" disabled_on="off|off|off" admin_label="Menu - Seitenleiste rechts" global_module="11253" saved_tabs="all" locked="off"][/et_pb_sidebar][et_pb_text background_layout="dark" admin_label="Angebot der Woche" module_id="aktuellbuttonseitenleiste" module_class="aktuellbuttonseitenleiste" background_color="#000000" custom_margin="0px|||" custom_padding="0px|||" global_module="14387" saved_tabs="all"]
+
+<p><a href="angebot3/">Textelement Global</a> <a href="angebot3/">88</a></p><h3><a href="angebot3/"><strong>Bitte Hier klicken!</strong></a></h3>
+
+[/et_pb_text][et_pb_shop type="sale" posts_number="1" columns_number="1" orderby="date" disabled_on="off|off|off" admin_label="Shop Angebote sidebar" module_id="seitenleiste" module_class="seitenleiste" global_module="13549" saved_tabs="all"][/et_pb_shop][et_pb_sidebar orientation="right" area="et_pb_widget_area_1" disabled_on="on|on|on" admin_label="Seitenleiste rechts News intern" disabled="on" global_module="11255" saved_tabs="all" locked="off"]
+[/et_pb_sidebar][et_pb_sidebar orientation="right" area="et_pb_widget_area_2" disabled_on="off|off|off" admin_label="Newsstream" global_module="11256" saved_tabs="all" locked="off"]
+[/et_pb_sidebar][/et_pb_column][/et_pb_section]
